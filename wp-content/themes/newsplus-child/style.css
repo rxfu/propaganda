@@ -1,0 +1,31 @@
+/*
+Theme Name:     NewsPlus Child
+Theme URI:      http://labs.saurabh-sharma.net/themes/newsplus/wp/
+Description:    Child theme for the NewsPlus theme
+Author:         Saurabh Sharma
+Author URI:     http://themeforest.net/user/SaurabhSharma
+Template:       newsplus                             
+Version:        2.4.2
+*/
+.brand img {
+	margin-left: 24px;
+	margin-bottom: 0;
+}
+#header {
+	background-image: url('images/logobk.png');
+	background-repeat: no-repeat;
+	background-position: 95% 0;
+	border: 0;
+}
+.primary-nav {
+	background-color: #cb1c1d;
+}
+.nav-menu > li > a {
+	color: #f5cd6e;
+}
+.nav-menu > li > a:hover {
+	color: #eba600;
+}
+.nav-menu > li:hover {
+	background-color: #840909;
+}

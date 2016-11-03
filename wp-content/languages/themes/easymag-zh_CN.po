@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easymag\n"
+"POT-Creation-Date: 2016-10-25 17:30+0800\n"
+"PO-Revision-Date: 2016-10-25 17:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../themes/easymag\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: inc/widgets/widgets.php\n"
+"X-Poedit-SearchPath-1: functions.php\n"
+
+#: functions.php:208
+msgid "Home"
+msgstr "首页"
+
+#: functions.php:237 functions.php:241 functions.php:245
+msgid "Archive for"
+msgstr ""
+
+#: functions.php:249
+msgid "Author Archive"
+msgstr ""
+
+#: functions.php:252
+msgid "Blog Archive"
+msgstr ""
+
+#: functions.php:255
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:338
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:340
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: functions.php:342
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: functions.php:344
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: functions.php:346
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: functions.php:348
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: functions.php:370
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: functions.php:374
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: functions.php:376
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/widgets.php:12
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:14
+msgid "Add widgets to Show widgets at right panel of page"
+msgstr ""
+
+#: inc/widgets/widgets.php:23
+msgid "Top Bar Search"
+msgstr ""
+
+#: inc/widgets/widgets.php:25
+msgid "Top Bar Search Position"
+msgstr ""
+
+#: inc/widgets/widgets.php:34
+msgid "Top Bar Social"
+msgstr ""
+
+#: inc/widgets/widgets.php:36
+msgid "Top Bar Search social icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:45
+msgid "Header Ads 728x90"
+msgstr ""
+
+#: inc/widgets/widgets.php:47
+msgid "Shows Advertisement at header position beside logo"
+msgstr ""
+
+#: inc/widgets/widgets.php:56
+msgid "News Ticker Position"
+msgstr ""
+
+#: inc/widgets/widgets.php:58
+msgid "Shows News Ticker"
+msgstr ""
+
+#: inc/widgets/widgets.php:67
+msgid "Frontpage: News Slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:69
+msgid "Add widgets to show at Frontpage featured News slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:78
+msgid "Front page: Highlighted News"
+msgstr ""
+
+#: inc/widgets/widgets.php:80
+msgid ""
+"Add widgets to show at Frontpage Highlighted News beside the featured News "
+"slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:89
+msgid "Front page: News Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:91
+msgid "Add widgets to show list of news from category at Front page Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:100
+msgid "Footer Position 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:102
+msgid "Add widgets to Show widgets at Footer Position 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:111
+msgid "Footer Position 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:113
+msgid "Add widgets to Show widgets at Footer Position 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:122
+msgid "Footer Position 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:124
+msgid "Add widgets to Show widgets at Footer Position 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:133
+msgid "Footer Position 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:135
+msgid "Add widgets to Show widgets at Footer Position 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:174
+msgid "Daisy: Social Icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:176
+msgid "Social Icons"
+msgstr ""
+
+#: inc/widgets/widgets.php:288 inc/widgets/widgets.php:289
+#: inc/widgets/widgets.php:449 inc/widgets/widgets.php:562
+#: inc/widgets/widgets.php:676 inc/widgets/widgets.php:789
+#: inc/widgets/widgets.php:914 inc/widgets/widgets.php:1075
+#: inc/widgets/widgets.php:1331 inc/widgets/widgets.php:1526
+#: inc/widgets/widgets.php:1682 inc/widgets/widgets.php:1951
+#: inc/widgets/widgets.php:2126
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widgets.php:293
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widgets.php:294
+msgid "https://www.facebook.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:298
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widgets.php:299
+msgid "https://twitter.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:303
+msgid "G plus"
+msgstr ""
+
+#: inc/widgets/widgets.php:304
+msgid "https://plus.google.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:308
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widgets.php:309
+msgid "https://instagram.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:313
+msgid "Github"
+msgstr ""
+
+#: inc/widgets/widgets.php:314
+msgid "https://github.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:318
+msgid "Flickr"
+msgstr ""
+
+#: inc/widgets/widgets.php:319
+msgid "https://www.flickr.com/\""
+msgstr ""
+
+#: inc/widgets/widgets.php:323
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widgets.php:324
+msgid "https://www.pinterest.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:328
+msgid "WordPress"
+msgstr ""
+
+#: inc/widgets/widgets.php:329
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/widgets/widgets.php:333
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widgets.php:334
+msgid "https://www.youtube.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:338
+msgid "Vimeo"
+msgstr ""
+
+#: inc/widgets/widgets.php:339
+msgid "https://vimeo.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:343
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widgets.php:344
+msgid "https://linkedin.com"
+msgstr ""
+
+#: inc/widgets/widgets.php:348
+msgid "Behance"
+msgstr ""
+
+#: inc/widgets/widgets.php:349
+msgid "https://www.behance.net/"
+msgstr ""
+
+#: inc/widgets/widgets.php:353
+msgid "Dribbble"
+msgstr ""
+
+#: inc/widgets/widgets.php:354
+msgid "https://dribbble.com/"
+msgstr ""
+
+#: inc/widgets/widgets.php:393
+msgid "Daisy: Ads 130x130"
+msgstr ""
+
+#: inc/widgets/widgets.php:395
+msgid "Advertisement with size of 130x130 for sidebar position"
+msgstr ""
+
+#: inc/widgets/widgets.php:409
+msgid "130x130 Ads"
+msgstr ""
+
+#: inc/widgets/widgets.php:450
+msgid "Advertise Title"
+msgstr ""
+
+#: inc/widgets/widgets.php:454 inc/widgets/widgets.php:567
+#: inc/widgets/widgets.php:681 inc/widgets/widgets.php:794
+msgid "Ads Link"
+msgstr ""
+
+#: inc/widgets/widgets.php:455 inc/widgets/widgets.php:568
+#: inc/widgets/widgets.php:682 inc/widgets/widgets.php:795
+msgid "URL"
+msgstr ""
+
+#: inc/widgets/widgets.php:459 inc/widgets/widgets.php:572
+#: inc/widgets/widgets.php:686 inc/widgets/widgets.php:799
+msgid "Link Type"
+msgstr ""
+
+#: inc/widgets/widgets.php:468 inc/widgets/widgets.php:581
+#: inc/widgets/widgets.php:695 inc/widgets/widgets.php:808
+msgid "Ads Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:478 inc/widgets/widgets.php:591
+#: inc/widgets/widgets.php:705 inc/widgets/widgets.php:818
+msgid "select Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:506
+msgid "Daisy: Ads 262x220"
+msgstr ""
+
+#: inc/widgets/widgets.php:508
+msgid "Advertisement with size of 262x220 for sidebar position"
+msgstr ""
+
+#: inc/widgets/widgets.php:522
+msgid "262x220 Ads"
+msgstr ""
+
+#: inc/widgets/widgets.php:563 inc/widgets/widgets.php:790
+msgid "Ads Title"
+msgstr ""
+
+#: inc/widgets/widgets.php:619
+msgid "Daisy: Ads 728x90"
+msgstr ""
+
+#: inc/widgets/widgets.php:621
+msgid ""
+"Header Banner Advertise with size of 728x90 for header position beside Logo"
+msgstr ""
+
+#: inc/widgets/widgets.php:635
+msgid "Header Banner Advertisement"
+msgstr ""
+
+#: inc/widgets/widgets.php:677
+msgid "Header Banner Ads"
+msgstr ""
+
+#: inc/widgets/widgets.php:733
+msgid "Daisy: Ads 870x150"
+msgstr ""
+
+#: inc/widgets/widgets.php:735
+msgid "Advertisement with size of 870x150 for before and after news section"
+msgstr ""
+
+#: inc/widgets/widgets.php:749
+msgid "870x150 Ads"
+msgstr ""
+
+#: inc/widgets/widgets.php:846
+msgid "Daisy: News Ticker"
+msgstr ""
+
+#: inc/widgets/widgets.php:848
+msgid "News Ticker"
+msgstr ""
+
+#: inc/widgets/widgets.php:892
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: inc/widgets/widgets.php:919 inc/widgets/widgets.php:1080
+#: inc/widgets/widgets.php:2132
+msgid "Chose Type"
+msgstr ""
+
+#: inc/widgets/widgets.php:921 inc/widgets/widgets.php:1082
+msgid "recent"
+msgstr ""
+
+#: inc/widgets/widgets.php:921 inc/widgets/widgets.php:1082
+#: inc/widgets/widgets.php:2115 inc/widgets/widgets.php:2134
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:922 inc/widgets/widgets.php:1083
+msgid "category"
+msgstr ""
+
+#: inc/widgets/widgets.php:922 inc/widgets/widgets.php:928
+#: inc/widgets/widgets.php:1083 inc/widgets/widgets.php:1088
+#: inc/widgets/widgets.php:1532 inc/widgets/widgets.php:1688
+#: inc/widgets/widgets.php:1957 inc/widgets/widgets.php:2135
+#: inc/widgets/widgets.php:2141
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/widgets.php:939 inc/widgets/widgets.php:1099
+#: inc/widgets/widgets.php:1545 inc/widgets/widgets.php:1708
+#: inc/widgets/widgets.php:1990 inc/widgets/widgets.php:2154
+msgid "No. of Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:968
+msgid "Daisy: Featured Slider"
+msgstr ""
+
+#: inc/widgets/widgets.php:970
+msgid "Featured News Image Slider with title and published date"
+msgstr ""
+
+#: inc/widgets/widgets.php:1053 inc/widgets/widgets.php:1205
+#: inc/widgets/widgets.php:1238 inc/widgets/widgets.php:1271
+#: inc/widgets/widgets.php:1304 inc/widgets/widgets.php:1505
+#: inc/widgets/widgets.php:1660 inc/widgets/widgets.php:1844
+#: inc/widgets/widgets.php:1922 inc/widgets/widgets.php:2101
+msgid "Sorry, no posts found in selected category."
+msgstr ""
+
+#: inc/widgets/widgets.php:1076 inc/widgets/widgets.php:1332
+msgid "Title for Featured Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:1129
+msgid "Daisy: Highlighted News"
+msgstr ""
+
+#: inc/widgets/widgets.php:1131
+msgid "Highlighted grid news post from 4 different category"
+msgstr ""
+
+#: inc/widgets/widgets.php:1336
+msgid "Category 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:1347 inc/widgets/widgets.php:1977
+msgid "Category 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:1358
+msgid "Category 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:1369
+msgid "Category 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:1405
+msgid "Daisy: News Layout 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:1407
+msgid "Posts display layout 1 for recently published post"
+msgstr ""
+
+#: inc/widgets/widgets.php:1435 inc/widgets/widgets.php:1606
+#: inc/widgets/widgets.php:1778 inc/widgets/widgets.php:1856
+#: inc/widgets/widgets.php:2064
+msgid "[ View All ]"
+msgstr "[ 查看所有 ]"
+
+#: inc/widgets/widgets.php:1574
+msgid "Daisy: News Layout 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:1576
+msgid "Posts display layout 2 for recently published post"
+msgstr ""
+
+#: inc/widgets/widgets.php:1701
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:1739
+msgid "Daisy: News Layout 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:1741
+msgid "Posts display layout 3 for recently published post"
+msgstr ""
+
+#: inc/widgets/widgets.php:1971
+msgid "Title 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:2023
+msgid "Daisy: News Layout 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:2025
+msgid "Posts display layout 4 for recently published post"
+msgstr ""
