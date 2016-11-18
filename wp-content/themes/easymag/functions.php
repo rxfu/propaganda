@@ -409,3 +409,5 @@ function easymag_posted_on() {
 	echo '<span class="posted-on">' . $posted_on . '</span>'; // WPCS: XSS OK.
 
 }
+
+add_filter('widget_text', 'do_shortcode');

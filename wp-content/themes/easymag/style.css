@@ -3464,10 +3464,10 @@ ol {
 	background-color: #ff9a02;
 } */
 .dt-header {
-	background: #cb1c1d;
+	background: #af0102;
 }
 .widget-title {
-	color: #cb1c1d;
+	color: #af0102;
 	font-weight: bold !important;
 }
 .dt-sidebar a img {
@@ -3510,4 +3510,13 @@ ol {
 }
 .dt-featured-posts-wrap, .dt-featured-post-img {
 	padding-bottom: 33.3%;
+}
+.dt-body-wrap .container .widget {
+	margin-bottom: 0;
+}
+.dt-body-wrap .container .widget_text {
+	margin-top: 1em;
+}
+.bx-wrapper {
+	margin-bottom: 0;
 }
